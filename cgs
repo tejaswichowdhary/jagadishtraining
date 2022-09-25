@@ -1,1 +1,16 @@
-create a text box in register page
+<html>
+<head>
+<title>jagadish</title>
+</head>
+<body>
+<h1>welcome to hyderabad</h1>
+<p>need to update email</p>
+
+<pre>
+15-21-57,
+balaji nagar,
+kukatpally,
+hyderabad
+</pre>
+</body>
+</html>
